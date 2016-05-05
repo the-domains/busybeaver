@@ -1,7 +1,7 @@
 name: busybeaver
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.18201
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9bd1ee'
     - '#59bae4'
     - '#bee4f4'
-  brandStrength: 0.7580148198176175
+  brandStrength: 0.4375
   lightness: 0.6875
   saturation: 0.625
   rhythmicContrast: 0.5
