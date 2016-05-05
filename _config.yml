@@ -1,0 +1,28 @@
+name: busybeaver
+favicon: null
+layout_spectrum: 0.41309211938641965
+typography_spectrum: 0.9565094402059913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7580148198176175
+  lightness: 0.19903540960513055
+  saturation: 0.5461115590296686
+  rhythmicContrast: 0.1800915424246341
+purpose: []
